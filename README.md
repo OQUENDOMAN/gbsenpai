@@ -62,3 +62,6 @@ There is some missing functionality:
 ## License
 
 **gbsenpai** is licensed under the terms of the MIT license, similar to the original GB Studio engine.
+lol, i can port a gb game to the gba
+XD
+
